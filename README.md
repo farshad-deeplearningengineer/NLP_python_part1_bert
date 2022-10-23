@@ -1,1 +1,1 @@
-# NLP_python_part1_bert
+# part 1:  using pertained models in transformers for Bert representation
